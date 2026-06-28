@@ -6,7 +6,7 @@ This repository contains Java programs covering fundamental programming concepts
 
 Technologies Used
 - Java
-- Eclipse / IntelliJ IDEA
+- Eclipse / Visual Studio Code (VS Code)
 - JDK
 
 Topics Covered
@@ -28,4 +28,5 @@ Skills Demonstrated
 Author
 
 Harshada Kanse
+
 Java Enthusiast
