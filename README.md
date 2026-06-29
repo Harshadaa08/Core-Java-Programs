@@ -27,6 +27,4 @@ Skills Demonstrated
 
 Author
 
-Harshada Kanse
-
-Java Enthusiast
+Harshada Kanse | Java Enthusiast
